@@ -132,7 +132,7 @@ FlipWin/
 
 Ankit Kumar - [ankitkumar9864@gmail.com](mailto:ankitkumar9864@gmail.com)
 
-Project Link: [https://github.com/ankitkumar9864/FlipWin](https://github.com/ankitkumar9864/FlipWin)
+Project Link: [https://github.com/chuck-ankit/FlipWin](https://github.com/chuck-ankit/FlipWin)
 
 ## License
 

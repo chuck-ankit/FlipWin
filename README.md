@@ -40,7 +40,7 @@ FlipWin is a decentralized coin flip betting game built on the Solana blockchain
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ankitkumar9864/FlipWin.git
+git clone https://github.com/chuck-ankit/FlipWin
 cd FlipWin
 ```
 
